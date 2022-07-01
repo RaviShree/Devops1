@@ -1,1 +1,1 @@
-"fileB content changes to feature branch" 
+"fileB content changes version2 feature" 
